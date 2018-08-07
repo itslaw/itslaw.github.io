@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Blockchain
+  url: /Blockchain
+  excerpt: "Exciting blockchain technologies"
+  image: ../images/clinton_ripple
+
+- title: Blockchain and NNETs
+  url: http://itslaw.github.io
