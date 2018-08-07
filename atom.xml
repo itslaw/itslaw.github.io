@@ -38,11 +38,6 @@ sitemap: false
     <uri>{{ site.url }}/</uri>
     {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
   </author>
-  <content type="html">
-    {% if post.image.feature %}{% include feed-feature-image.html %}{% endif %}
-    {{ post.content | xml_escape }}
-    {% include feed-footer.html %}
-  </content>
 </entry>
 {% endfor %}
 
