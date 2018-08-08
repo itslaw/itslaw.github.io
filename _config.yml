@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Github"
+description: "This is a personal website that focuses on python, nueral networks and blockchain"
 logo: images/clinton_ripple.jpg # 120x120 px default image used for Twitter summary card
 teaser: images/clinton_ripple.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://itslaw.github.io # what does he mean by commenting locally
+url: https://github.com/itslaw # what does he mean by commenting locally
 feed:
   path: atom.xml
 
